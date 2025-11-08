@@ -27,6 +27,7 @@ python-magic
 qbittorrent-api
 requests
 telegraph
+nekozee
 tenacity
 tgcrypto
 urllib3
